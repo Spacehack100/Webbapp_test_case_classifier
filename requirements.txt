@@ -1,3 +1,2 @@
-import numpy as np
-from joblib import load
-from fastai.vision.widgets import *
+numpy
+fastai
